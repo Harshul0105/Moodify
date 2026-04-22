@@ -217,7 +217,6 @@ import os
 YOUTUBE_API_KEY = os.environ.get('YOUTUBE_API_KEY')
 ```
 
----
 
 ## 🚧 Future Ideas
 
@@ -228,7 +227,6 @@ YOUTUBE_API_KEY = os.environ.get('YOUTUBE_API_KEY')
 - [ ] Mobile-friendly Gradio theme
 - [ ] Export playlist to Spotify / YouTube Music
 
----
 
 ## 👤 Author
 
@@ -236,12 +234,8 @@ YOUTUBE_API_KEY = os.environ.get('YOUTUBE_API_KEY')
 - GitHub: [@Harshul0105](https://github.com/Harshul0105)
 - LinkedIn: [harshulkumawat-633665282](https://www.linkedin.com/in/harshulkumawat-633665282)
 
----
 
 ## 📄 License
 
 This project is open source and available under the [MIT License](LICENSE).
 
----
-
-*Built with CLIP + YouTube API + Gradio · JECRC University, Jaipur*
